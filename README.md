@@ -1,5 +1,4 @@
 # course
 
 This is note 
-
-Second edit :)
+second edit :)
